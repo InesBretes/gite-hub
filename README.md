@@ -40,7 +40,6 @@ src/<br>
 │   ├── Calendar/       # Vue calendrier<br>
 │   └── Layout/         # Mise en page<br>
 ├── contexts/           # Contextes React<br>
-└── __tests__/          # Tests unitaires<br>
 
 💰 Calcul des Tarifs<br>
 Le système calcule automatiquement les tarifs selon :<br>
